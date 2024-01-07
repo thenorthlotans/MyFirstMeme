@@ -1,32 +1,29 @@
 #helloworld{
-    width: 400px;
-    height: 230px;
-    margin: 150px;
-    margin-bottom: 10px;
-    margin-top: 150px ;
-    margin-left: 150px;
-    margin-right: 150px;
-}
+    width: 100%;}
 body{
     background-color: #C6CF9B;
 }
 
 #everything{
-    text-align: center;
+    width: 50%;
+    margin: 25%;
 }
 .text{
     text-align: center;
     margin-left: 30px;
     margin-right: 30px;
     margin-top: 0px;
-    color: white;
+    color: black;
     font-family: 'Montserrat', sans-serif;}
 
 #headerone{
     font-size: 30px;
+    text-transform: uppercase;
 }
 
 #paragraphone{
     font-size: 20px;
-    color:black
+    color:black;
+}
+img{
 }
